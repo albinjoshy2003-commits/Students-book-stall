@@ -1,0 +1,6 @@
+{
+  "name": "Students Book Stall",
+  "description": "A premium, modern educational bookstore website for students, parents, teachers, and professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
